@@ -3,3 +3,5 @@ logs/
 reflections/private/
 *.swp
 *.tmp
+*.ssh
+*.pub
