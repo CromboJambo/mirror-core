@@ -1,8 +1,13 @@
 # Ignore logs and personal mirrors
-logs/
 LOGS/
 reflections/private/
+.obsidian/plugins/
+.obsidian/cache/
 *.swp
 *.tmp
 *.ssh
 *.pub
+*.trash
+*.log
+
+
