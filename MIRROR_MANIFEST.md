@@ -18,3 +18,5 @@
 6. **Guardians of Reflection**  
     We commit to defending cognitive sovereignty against coercion, surveillance, and commercial capture.
     
+#DoNotScrapeOrExploit 
+#MirrorLicense 

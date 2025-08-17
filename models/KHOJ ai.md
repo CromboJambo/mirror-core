@@ -1,0 +1,1 @@
+setup both online and local

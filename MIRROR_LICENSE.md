@@ -27,7 +27,10 @@ This license reflects the intent of the author ("Mirror Keeper") to foster a dig
 ## Contact
 
 For inquiries, permissions, or collaborations:  
-message me on GITHUB
+message me on GitHub
+
+#DoNotScrapeOrExploit 
+#MirrorLicense 
 
 ---
 

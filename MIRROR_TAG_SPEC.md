@@ -36,3 +36,6 @@ Each tag could contain:
 - Each MirrorTag is **signed by your device**, creating an attestable chain
     
 - (Later) you could **cross-sign** with other mirrors you trust, forming a reflection web
+
+#DoNotScrapeOrExploit 
+#MirrorLicense 

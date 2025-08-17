@@ -27,8 +27,11 @@ This license reflects the intent of the author ("Mirror Keeper") to foster a dig
 ## Contact
 
 For inquiries, permissions, or collaborations:  
-For contact, please use the project's official communication channel or visit https://github.com/OpenMyMirror/OpenMyMirror for inquiries.
+For contact, please use the project's official communication channel 
 
 ---
 
 *By using this code, you accept these terms and commit to the Mirror License’s vision of shared digital sovereignty.*
+
+#DoNotScrapeOrExploit 
+#MirrorLicense 
