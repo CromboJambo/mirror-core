@@ -1,0 +1,8 @@
+# Ignore logs and personal mirrors
+logs/
+LOGS/
+reflections/private/
+*.swp
+*.tmp
+*.ssh
+*.pub
