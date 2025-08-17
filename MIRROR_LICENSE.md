@@ -27,7 +27,7 @@ This license reflects the intent of the author ("Mirror Keeper") to foster a dig
 ## Contact
 
 For inquiries, permissions, or collaborations:  
-dustinjgrover@gmail.com
+message me on GITHUB
 
 ---
 
