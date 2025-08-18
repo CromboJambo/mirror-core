@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "models/Ollama.md",
+                "file": "MIRROR_DOCK_SPEC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ollama"
+              "title": "MIRROR_DOCK_SPEC"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "models/Ollama.md",
+                "file": "MIRROR_DOCK_SPEC.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ollama"
+              "title": "Outgoing links from MIRROR_DOCK_SPEC"
             }
           },
           {
@@ -204,19 +204,23 @@
       "whisper:Open recording controls": false
     }
   },
-  "active": "a159ba393b354275",
+  "active": "76200bc420d48d53",
   "lastOpenFiles": [
-    "models/KHOJ ai.md",
-    "models/Ollama.md",
-    "OpenMyMirror/MIRROR_LICENSE.md",
-    "OpenMyMirror/README.md",
-    "MIRROR_DOCK_SPEC.md",
     "MIRROR_LICENSE.md",
     "MIRROR_MANIFEST.md",
     "MIRROR_TAG_SPEC.md",
     "PRIVACY_POLICY.md",
     "README.md",
+    "MIRROR_DOCK_SPEC.md",
+    "models/Ollama.md",
+    "models/KHOJ ai.md",
+    "DOCS/04_AI_Companion.md",
+    "DOCS/01_Rituals_and_Rules.md",
+    "DOCS/02_Reflections_Model.md",
+    "DOCS/03_Threat_Model.md",
     "LOGS/2025.08.17_17.43.md",
+    "OpenMyMirror/MIRROR_LICENSE.md",
+    "OpenMyMirror/README.md",
     "LOGS/2025.08.17_14.07.md",
     "LOGS/2025-07-30.md",
     "LOGS/2025.08.17_14.07 1.md",
@@ -228,11 +232,7 @@
     "Untitled 1.md",
     "WSL - file location.md",
     "WSL SSH connection.md",
-    "PyTorch.md",
-    "project strawberry.md",
     "NewtonCORP/Untitled.canvas",
-    "NewtonCORP/Gravity Refresh Rate.md",
-    "NewtonCORP/safety  net plan.md",
     "GPT access as of 2025-08-07.png",
     "SuperGroverlikeimageofsuperhero.jpg",
     "SuperGroverlikeimageofsuperhero.png",
