@@ -9,5 +9,8 @@ reflections/private/
 *.pub
 *.trash
 *.log
+*.git
+*.obsidian
 
-
+.obsidian/workspace.json
+.obsidian/core-plugins.json

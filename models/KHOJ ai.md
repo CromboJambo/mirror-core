@@ -1,1 +1,0 @@
-setup both Cloud and local; in Obsidian and html app

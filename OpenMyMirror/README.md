@@ -90,7 +90,7 @@ Licensed under the **Mirror License v0.1** — a custom anti-coercion, open-use 
 
 ## 👤 Author
 
-Built by Dustin Grover and community contributors.\
+Built by community contributors.
 Inspired by a desire for **calm computing**, sovereignty, and honest self-reflection in the age of surveillance software.
 
 ---
